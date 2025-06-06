@@ -651,7 +651,7 @@ td:nth-child(3) {
 @media (max-width: 600px) {
   .nano-coating {
     padding: 2rem 1rem;
-    margin: 2rem 1rem;
+    
   }
 
   .nano-coating h2 {
